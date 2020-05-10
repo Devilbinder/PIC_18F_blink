@@ -8,7 +8,7 @@ void main(void) {
     while(1){
         LATB=0; //0b00000000
         __delay_ms(250);
-        LATB=1; //0b00000011
+        LATB=1; //0b00000001
         __delay_ms(250);
 
     }
