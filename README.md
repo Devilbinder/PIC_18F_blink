@@ -9,6 +9,9 @@ This code Demonstrates how to blink a LED using the XC8 compiler with MPLAB X an
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
